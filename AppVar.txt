@@ -1,0 +1,5 @@
+nifty_lotsize = 50
+banknifty_lotsize = 15
+finnifty_lotsize = 40
+sensex_lotsize = 0
+midcap_lotsize = 0
