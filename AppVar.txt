@@ -1,4 +1,4 @@
 nifty_lotsize = 75
 banknifty_lotsize = 30
-finnifty_lotsize = 25
-sensex_lotsize = 10
+finnifty_lotsize = 65
+sensex_lotsize = 20
